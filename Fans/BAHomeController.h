@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BAHomeController.h
 //  Fans
 //
 //  Created by Borago on 15/7/23.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BAHomeController : UIViewController
 
 @end
-
